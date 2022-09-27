@@ -3,9 +3,11 @@ Assignment with a goal of reinforcing the understanding of modern software devel
 
 # Assignment Outline
 You have been asked to build a lecture management system as follows:
-a) [7 marks]
+    
+    a) [7 marks]
     Create a Java project using Gradle. The project should contain four classes. Each class should
     have suitable accessor and mutator methods:
+    
       a. A student class should contain some attributes such as (Name, Age, DOB, ID,
           username, courses and modules registered for, etc.).
          A specific method (getUsername()) will generate the student’s username by
