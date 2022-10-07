@@ -7,14 +7,6 @@
     <list default="true" id="ee13ca8c-7096-4377-8de3-0368cdcde689" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/assignment1a/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/assignment1a/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/assignment1a/Lecturer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/assignment1a/Lecturer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/assignment1a/Module.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/assignment1a/Module.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/assignment1a/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/assignment1a/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/assignment1a/CourseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/assignment1a/CourseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/assignment1a/LecturerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/assignment1a/LecturerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/assignment1a/ModuleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/assignment1a/ModuleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/assignment1a/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/assignment1a/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
