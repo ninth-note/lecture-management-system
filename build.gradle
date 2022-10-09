@@ -1,7 +1,6 @@
 plugins {
     id 'java'
     id 'war'
-    id 'application'
 }
 
 group 'org.example'
@@ -25,7 +24,7 @@ test {
 tasks.withType(Test) {
     testLogging {
         exceptionFormat "full"
-        events "started", "skipped", "passed", "failed"
+        events "skipped", "passed", "failed"
         showStandardStreams true
     }
 }
